@@ -12,15 +12,6 @@
   ],
   "message": [
     {
-      "name": "JJ",
-      "email": "jose@email.com",
-      "message": "Este es un mensaje de mas de 10 carácteres",
-      "id": "1",
-      "subject": "Contrato"
-    }
-  ],
-  "feedback": [
-    {
       "name": "Jose",
       "message": "Muito bom teu portfólio",
       "id": "1",
