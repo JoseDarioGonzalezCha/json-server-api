@@ -3,7 +3,7 @@
     {
       "title": "Project One",
       "subtitle": "January 2021",
-      "imageUrl": "https://via.placeholder.com/300",
+      "imageUrl": "https://raw.githubusercontent.com/JoseDarioGonzalezCha/projects-imgs/refs/heads/main/assets/DevCurrency.png",
       "description": "Description of Project One",
       "repoUrl": "https://github.com/project-one",
       "deployUrl": "https://project-one.com",
