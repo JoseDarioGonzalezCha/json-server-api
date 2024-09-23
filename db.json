@@ -1,12 +1,12 @@
 {
   "projects": [
     {
-      "title": "Project One",
+      "title": "Cripto Currency",
       "subtitle": "January 2021",
       "imageUrl": "https://raw.githubusercontent.com/JoseDarioGonzalezCha/projects-imgs/refs/heads/main/assets/DevCurrency.png",
-      "description": "Description of Project One",
-      "repoUrl": "https://github.com/project-one",
-      "deployUrl": "https://project-one.com",
+      "description": "Projeto desenvolvido com React e TypeScript para consulta de cripto moedas",
+      "repoUrl": "https://github.com/JoseDarioGonzalezCha/CurrencyDev",
+      "deployUrl": "https://currency-dev.vercel.app/",
       "id": "1"
     }
   ],
