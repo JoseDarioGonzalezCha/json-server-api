@@ -13,8 +13,8 @@
       "title": "ByteBank",
       "subtitle": "October 2024",
       "imageUrl": "https://raw.githubusercontent.com/JoseDarioGonzalezCha/projects-imgs/refs/heads/main/assets/DevCurrency.png",
-      "description": "Projeto desenvolvido com React e TypeScript para consulta de cripto moedas",
-      "repoUrl": "https://github.com/JoseDarioGonzalezCha/CurrencyDev",
+      "description": "Projeto desenvolvido com TypeScript para fazer transações bancarias",
+      "repoUrl": "https://github.com/JoseDarioGonzalezCha/Bytebank_TS",
       "deployUrl": "https://bytebank-ts-kwyx.vercel.app/",
       "id": "2"
     }
