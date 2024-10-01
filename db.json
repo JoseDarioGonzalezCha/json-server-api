@@ -12,7 +12,7 @@
      {
       "title": "ByteBank",
       "subtitle": "October 2024",
-      "imageUrl": "https://github.com/JoseDarioGonzalezCha/projects-imgs/blob/main/assets/Screenshot%202024-10-01%20173050.png",
+      "imageUrl": "https://raw.githubusercontent.com/JoseDarioGonzalezCha/projects-imgs/refs/heads/main/assets/bytebank.png",
       "description": "Projeto desenvolvido com TypeScript para fazer transações bancarias",
       "repoUrl": "https://github.com/JoseDarioGonzalezCha/Bytebank_TS",
       "deployUrl": "https://bytebank-ts-kwyx.vercel.app/",
